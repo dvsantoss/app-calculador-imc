@@ -153,9 +153,7 @@ imc-project/
 ## 📸 Capturas de Tela
 
 ### 1. Tela de Início Normal
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ec34305-75ec-4e99-b532-e374a79eb87e" alt="Tela de Início" width="280">
-</p>
+<img src="https://github.com/user-attachments/assets/0ec34305-75ec-4e99-b532-e374a79eb87e" alt="Tela de Início" width="280">
 
 ### 2. Tela de Início com Aviso de Campo Obrigatório
 *[Espaço para captura de tela mostrando mensagem de erro "Campo obrigatório*"]*
