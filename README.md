@@ -156,16 +156,16 @@ imc-project/
 <img src="https://github.com/user-attachments/assets/0ec34305-75ec-4e99-b532-e374a79eb87e" alt="Tela de Início" width="280">
 
 ### 2. Tela de Início com Aviso de Campo Obrigatório
-*[Espaço para captura de tela mostrando mensagem de erro "Campo obrigatório*"]*
+<img src="https://github.com/user-attachments/assets/3bac77f7-57c6-41e6-9b97-ad7a76bcf0e8" alt="Tela de Início com Aviso de Campo" width="280">
 
 ### 3. Tela do Resultado Normal
-*[Espaço para captura de tela exibindo o resultado do IMC calculado]*
+<img src="https://github.com/user-attachments/assets/0c591fdc-4a2b-4d86-9fd5-0c252e24dc14" alt="Tela do Resultado Normal" width="280">
 
 ### 4. Clicando em Compartilhar na Tela de Resultado
-*[Espaço para captura de tela mostrando o menu de compartilhamento nativo]*
+<img  src="https://github.com/user-attachments/assets/61b20c8e-f7e3-48d7-8c6d-ee287bc8d2f4" alt="Compartilhar na Tela de Resultado" width="280">
 
 ### 5. Mostrando a Lista de Resultados com Scroll
-*[Espaço para captura de tela exibindo o histórico de resultados com scroll]*
+<img  src="https://github.com/user-attachments/assets/92172461-bfb3-4398-8840-e18831a48ca1" alt="Lista de Resultados" width="280">
 
 ## 🔄 Fluxo de Uso
 
